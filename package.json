@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-bot-nodejs",
+  "version": "1.0.0",
+  "description": "A whatsapp bot using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivangrana/Whatsapp-bot-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivangrana/Whatsapp-bot-Nodejs/issues"
+  },
+  "homepage": "https://github.com/ivangrana/Whatsapp-bot-Nodejs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "qrcode-terminal": "^0.12.0",
+    "save": "^2.9.0",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
